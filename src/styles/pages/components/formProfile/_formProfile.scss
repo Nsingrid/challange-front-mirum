@@ -1,0 +1,54 @@
+.form__profile {
+
+  .icon__close {
+    width: 32px;
+  }
+
+  .options__input {
+    border: 1px solid #808080;
+    margin-right: 30px;
+    padding: 3px 10px 3px 10px;
+    background-color: #dcdcdc;
+  }
+
+  .check__novi {
+    font-size: 13px;
+  }
+
+  .btn__save {
+    border: 1px solid #808080;
+    background-color: #dcdcdc;
+    padding: 7px 50px;
+    border-radius: 5px;
+    font-weight: 600;
+  }
+
+  .img__profile {
+    width: 170px;
+    height: 170px;
+    border-radius: 170px;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    display: inline-flex !important;
+  }
+
+  .custom-form-control {
+    display: block;
+    width: 100%;
+    padding: 0.075rem 0.075rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+
+  input.PhoneInputInput {
+    border: none !important;
+  }
+}
